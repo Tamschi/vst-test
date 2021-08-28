@@ -15,6 +15,7 @@
 
 TODO_README_DESCRIPTION
 
+<!--
 ## Installation
 
 Please use [cargo-edit](https://crates.io/crates/cargo-edit) to always add the latest version of this library:
@@ -22,6 +23,7 @@ Please use [cargo-edit](https://crates.io/crates/cargo-edit) to always add the l
 ```cmd
 cargo add vst-test
 ```
+-->
 
 ## Example
 
